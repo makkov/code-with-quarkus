@@ -1,6 +1,5 @@
 package org.acme;
 
-import io.quarkus.test.InjectMock;
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;

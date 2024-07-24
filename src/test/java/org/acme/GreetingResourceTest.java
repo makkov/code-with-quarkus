@@ -1,6 +1,7 @@
 package org.acme;
 
 import io.quarkus.test.junit.QuarkusTest;
+import org.acme.greeting.GreetingService;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 

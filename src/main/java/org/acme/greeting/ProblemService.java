@@ -1,4 +1,4 @@
-package org.acme;
+package org.acme.greeting;
 
 import io.quarkus.logging.Log;
 import jakarta.enterprise.context.ApplicationScoped;

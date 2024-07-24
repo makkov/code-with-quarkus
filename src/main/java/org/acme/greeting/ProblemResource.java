@@ -1,4 +1,4 @@
-package org.acme;
+package org.acme.greeting;
 
 import io.smallrye.faulttolerance.api.RateLimit;
 import jakarta.ws.rs.GET;

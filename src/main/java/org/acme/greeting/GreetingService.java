@@ -6,6 +6,7 @@ import jakarta.enterprise.context.ApplicationScoped;
 public class GreetingService {
 
     public String greet() {
-        return "Привет from Service!";
+
+        return "Hello from Service!!!";
     }
 }
